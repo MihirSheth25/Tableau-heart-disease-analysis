@@ -22,4 +22,4 @@ Tableau - Heart disease ananlysis has been conducted taking into consideration s
 
 ### Acknowledgement 
 
-We would like to thanks Prof. Vaibhav Vasani and Prof. Swapnil Pawar for the guidance and support throughout the coursework.
+We would like to thank Prof. Vaibhav Vasani and Prof. Swapnil Pawar for the guidance and support throughout the coursework.
